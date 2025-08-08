@@ -21,12 +21,3 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
 </div>
-
----
-
-### 🔗 Projetos em Destaque
-
-- [portfolio](https://github.com/LauraGavira3/portfolio) — Meu primeiro projeto com HTML e CSS
-- [alurabook](https://github.com/LauraGavira3/alurabook) — Layout responsivo mobile-first
-- [css-calmaria-acessibilidade](https://github.com/LauraGavira3/css-calmaria-acessibilidade) — Projeto com foco em acessibilidade
-- [Bytebank-js](https://github.com/LauraGavira3/Bytebank-js) — Orientação a Objetos em JavaScript
