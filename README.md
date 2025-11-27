@@ -1,6 +1,6 @@
 ## 👋 Olá! Meu nome é Laura
 
-🎨 Sou uma UX/UI Designer plena com background sólido em design de produtos digitais.  
+🎨 Sou uma UX/UI Designer pleno com background sólido em design de produtos digitais.  
 💻 Atualmente, estou me aprimorando na área de desenvolvimento Front-end para integrar design e tecnologia na criação de soluções impactantes.
 
 ---
